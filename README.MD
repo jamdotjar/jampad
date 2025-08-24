@@ -1,12 +1,19 @@
 # JamPad
 jampad is my first hardware project, and my attempt at making a decent macropad!
 It includes 7 keys for various macros ( *calculator hotkey anyone?* ) as well as one rotary encoder for media control. 
+
 It's main body is made of two 3-d printed outer shells, held together by m3 screws and heat set inserts with an acrylic plate sandwiched between. This also means the plate can be swapped out relatively painlessly. 
-for firmware, It currently has two QMK layers, with a mix of keys I dont have easy acess to on my main keyboard, and keycodes I thought were funny. The 128x32 OLED displays *very important and relevant* information, on loop. 
-Overall, I enjoyed this project a fair bit, as it helped introduce me to pcb design something I had never done before. the case design was relatively painless, and designing around the specifics of the PCB was a fun challenge. The most frustrating part was the firmware, but I found that after a good while reading through the QMK and XAIO docs, I got the basics down. I'm really exited to try and experiment and push this board, if I get it. And i've been having a blast helping my friends now that they've started their own. 
+for firmware, It currently has two QMK layers, with a mix of keys I dont have easy acess to on my main keyboard, and keycodes I thought were funny. 
+
+The 128x32 OLED displays *very important and relevant* information, on loop. 
+Overall, I enjoyed this project a fair bit, as it helped introduce me to pcb design something I had never done before. the case design was relatively painless, and designing around the specifics of the PCB was a fun challenge. 
+
+The most annoying bit was the firmware, but I found that after a good while reading through the QMK and XAIO docs, I got the basics down. Once I got my hands on all the parts it assebled pretty much painlessly, and I only had to reprint the case once!
 
 9/10 project. Would do again.
 Have some photos:
+
+
 
 
 # Bill of materials
