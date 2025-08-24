@@ -14,6 +14,9 @@ The most annoying bit was the firmware, but I found that after a good while read
 Have some photos:
 
 
+<img width="400"  alt="render1" src="https://github.com/user-attachments/assets/782c97a3-0ff6-4fba-b844-92acdbf6fb62" />
+<img width="400"  alt="render2" src="https://github.com/user-attachments/assets/fbdd12f3-af45-4d60-899c-abfcfa7c66a8" />
+
 
 
 # Bill of materials
